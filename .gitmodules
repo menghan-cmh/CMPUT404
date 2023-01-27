@@ -1,3 +1,6 @@
 [submodule "lab3-cgi"]
 	path = lab3-cgi
 	url = https://github.com/menghan-cmh/CMPUT404-cgi-lab
+[submodule "assignment1-webserver"]
+	path = assignment1-webserver
+	url = https://github.com/menghan-cmh/CMPUT404-assignment-webserver
